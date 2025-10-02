@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Python Application
 ======================
 This is a simple Python application. This application serves as a basic template for a console application using Python.
@@ -17,3 +18,7 @@ You can run the application in one of the following ways:
 This will start the application.
 
 Happy coding! 🙂
+=======
+# Combinatorial-Framework
+based on  full stack development
+>>>>>>> 7a16e98bde309fe630ef03e8ed5d3c0998c91317
